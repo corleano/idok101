@@ -1,0 +1,6 @@
+echo "# idok101" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/corleano/idok101.git
+git push -u origin master
