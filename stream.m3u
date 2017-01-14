@@ -1,40 +1,41 @@
 # EXTM3U
-#EXTINF:-1 tvg-id=“TV1” tvg-name=“TV1”,TV1 (Malaysia)
 
-http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id=“TV2” tvg-name=“TV2”,TV2 (Malaysia)
+
+#EXTINF:-1 tvg-id=â€œTV2â€ tvg-name=â€œTV2â€,TV2 (Malaysia)
 
 http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=“TV3” tvg-name=“TV3”,TV3 (Malaysia)
+#EXTINF:-1 tvg-id=â€œTV3â€ tvg-name=â€œTV3â€,TV3 (Malaysia)
 
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
-#EXTINF:-1 tvg-id=“TV4” tvg-name=“TV4”,TV4 (Malaysia)
+#EXTINF:-1 tvg-id=â€œTV4â€ tvg-name=â€œTV4â€,TV4 (Malaysia)
 
 http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=“TV5” tvg-name=“TV5”,TV5 (Malaysia)
+#EXTINF:-1 tvg-id=â€œTV5â€ tvg-name=â€œTV5â€,TV5 (Malaysia)
 
 http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=“TV6” tvg-name=“TV6”,TV6 (Malaysia)
+#EXTINF:-1 tvg-id=â€œTV6â€ tvg-name=â€œTV6â€,TV6 (Malaysia)
 
 http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=“TV7” tvg-name=“NTV7”,NTV7 (Malaysia)
+#EXTINF:-1 tvg-id=â€œTV7â€ tvg-name=â€œNTV7â€,NTV7 (Malaysia)
 
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 
-#EXTINF:-1 tvg-id=“TV8” tvg-name=“8TV”,8TV (Malaysia)
+#EXTINF:-1 tvg-id=â€œTV8â€ tvg-name=â€œ8TVâ€,8TV (Malaysia)
 
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:-1 tvg-id=“TV9” tvg-name=“TV9”,TV9 (Malaysia)
+#EXTINF:-1 tvg-id=â€œTV9â€ tvg-name=â€œTV9â€,TV9 (Malaysia)
 
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-#EXTINF:-1 tvg-id=“TV10” tvg-name=“TV10”,TV10 (Malaysia)
+#EXTINF:-1 tvg-id=â€œTV10â€ tvg-name=â€œTV10â€,TV10 (Malaysia)
 
 http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
